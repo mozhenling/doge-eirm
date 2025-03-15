@@ -19,11 +19,11 @@ If you find this repo useful, please cite our paper (update later):
     author={Mo, Zhenling and Zhang, Zijun and Miao, Qiang and Tsui, Kwok-Leung},
     journal={IEEE Transactions on Cybernetics}, 
     title={Extended Invariant Risk Minimization for Machine Fault Diagnosis with Label Noise and Data Shift}, 
-    year={},
+    year={2025},
     volume={},
     number={},
-    pages={},
-    doi={}}
+    pages={1-14},
+    doi={10.1109/TNNLS.2025.3531214}}
 
 If you use the SichuanU dataset (the gearbox dataset), please cite the above paper or the below paper:
 
