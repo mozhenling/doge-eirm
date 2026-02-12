@@ -4,7 +4,7 @@ echo '------- update git and remote --------'
 
 git add .
 
-git commit . -m 'paper accepted by tnnls'
+git commit . -m 'add a toy example'
 
 git push origin master
 
