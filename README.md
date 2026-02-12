@@ -5,7 +5,7 @@ _"Extended Invariant Risk Minimization for Machine Fault Diagnosis
 with Label Noise and Data Shift"_, which has been accepted for publication
 on IEEE Transactions on Neural Networks and Learning Systems.
 
-##Sharp minima prevention
+## Sharp minima prevention
 EIRM couples the ideas of learning invariance with flat minima optimization. The image shows its effect of sharp minima prevetion.
 
 ![prevention](outputs/three_inits_trajectories.jpg)
