@@ -10,7 +10,7 @@ EIRM couples the ideas of learning invariance with flat minima optimization. The
 
 ![prevention](outputs/three_inits_trajectories.jpg)
 
-The objective function is a softmin function with two basins, sharp (left) and flat (right). The gradients of ERM, IRM, and EIRM are used in a gradient descent fashion to minimize the objective funtion. This toy example is implemented by `toy.py`.
+The objective function is a softmin function with two basins, sharp (left) and flat (right). The gradients of ERM, IRM, and EIRM are used in a gradient descent fashion to minimize the objective funtion. This toy example is implemented by `toy.py`. (The toy example was created during a discussion with Geng TANG, DS, CityUHK. )
 
 ## Usage
 Use `eg_sweep.sh` to run an example of sweeping experiments and use
