@@ -1,4 +1,4 @@
-# EIRM: Extened Invaraint Risk Minization
+# EIRM: Extended Invaraint Risk Minization
 
 The repository contains the codes of the paper entitled
 _"Extended Invariant Risk Minimization for Machine Fault Diagnosis
